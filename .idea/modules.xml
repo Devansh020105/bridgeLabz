@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SubmissionOnControlFlowPractices/SubmissionOnControlFlowPractices.iml" filepath="$PROJECT_DIR$/SubmissionOnControlFlowPractices/SubmissionOnControlFlowPractices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bridgeLabz.iml" filepath="$PROJECT_DIR$/.idea/bridgeLabz.iml" />
       <module fileurl="file://$PROJECT_DIR$/praccticProblem/praccticProblem.iml" filepath="$PROJECT_DIR$/praccticProblem/praccticProblem.iml" />
     </modules>
